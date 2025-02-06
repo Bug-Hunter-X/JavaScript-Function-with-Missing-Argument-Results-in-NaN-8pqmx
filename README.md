@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error where a function is called with fewer arguments than it expects, leading to unexpected NaN results. The bug.js file contains the erroneous code.  The bugSolution.js file provides a corrected version that handles missing arguments gracefully.
